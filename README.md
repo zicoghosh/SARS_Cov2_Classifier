@@ -7,5 +7,5 @@ sequences.fasta and sequences.csv contain data collected from the above link (up
 
 Use *pip install -r requirements.txt* inside the virtual env to download the necessary packages.
 
-## File Descriptions:
-create_dataset: combines data from sequences.fasta and sequences.csv to generate the dataset as a pandas dataframe.
+### File Descriptions:
+**create_dataset.ipynb:** combines data from sequences.fasta and sequences.csv to generate the dataset as a pandas dataframe.
