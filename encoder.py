@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/home/zico/anaconda3/envs/my_env python3
 # -*- coding: utf-8 -*-
 """
 Created on Mon Apr 20 03:50:33 2020
@@ -18,10 +18,9 @@ from sklearn.preprocessing import LabelEncoder
 import numpy as np
 import re
 
+path="/home/zico/zico/2nd_Sem/DBMS/Project/new/SARS_Cov2_Classifier/final.csv"
 
-path="/home/zico/zico/2nd_Sem/DBMS/Project/new/SARS_Cov2_Classifier-master/final.csv"
-
-raw_data=pd.read_csv(path)
+data_df=pd.read_csv(path)
 
 # function to convert a DNA sequence string to a numpy array
 # converts to lower case, changes any non 'acgt' characters to 'n'
@@ -36,7 +35,6 @@ def string_to_array(my_string):
 
 label_encoder = LabelEncoder()
 label_encoder.fit(np.array(['a','c','g','t','z']))
-
 
 
 # function to encode a DNA sequence string as an ordinal vector
@@ -54,7 +52,7 @@ def ordinal_encoder(my_array):
     return float_encoded
 
 
-data=raw_data[["Sequence","Geo_Location"]]
+data=data_df[["Sequence","Geo_Location"]]
 
 dummy=[]
 dum=np.array(dummy)
@@ -77,4 +75,4 @@ final_data= data.assign(enc_seq=seq_df)
 #Using this dataframe for training 
 final_data=final_data[["enc_seq","Geo_Location"]]
 
-
+len(final_data["enc_seq"][0])
