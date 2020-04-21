@@ -19,7 +19,7 @@ import numpy as np
 import re
 
 
-path="/home/zico/zico/2nd_Sem/DBMS/Project/SARS_Cov2_Classifier-master/final.csv"
+path="/home/zico/zico/2nd_Sem/DBMS/Project/new/SARS_Cov2_Classifier-master/final.csv"
 
 raw_data=pd.read_csv(path)
 
