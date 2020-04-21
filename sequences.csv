@@ -1,5 +1,125 @@
 Accession,Release_Date,Species,Length,Geo_Location,Host,Isolation_Source,Collection_Date
 NC_045512,2020-01-13T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29903,China,Homo sapiens,,2019-12
+MT114412,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29889,Hong Kong,Homo sapiens,"saliva, oronasopharynx",2020-01-23
+MT114413,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,Hong Kong,Homo sapiens,,2020-01-24
+MT114414,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,Hong Kong,Homo sapiens,,2020-01-24
+MT114415,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,Hong Kong,Homo sapiens,"saliva, oronasopharynx",2020-01-27
+MT114416,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29867,Hong Kong,Homo sapiens,"saliva, oronasopharynx",2020-01-27
+MT114417,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,Hong Kong,Homo sapiens,"saliva, oronasopharynx",2020-01-29
+MT114418,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,Hong Kong,Homo sapiens,"saliva, oronasopharynx",2020-01-27
+MT114419,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29863,Hong Kong,Homo sapiens,"saliva, oronasopharynx",2020-01-29
+MT230904,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,Hong Kong,Homo sapiens,oronasopharynx,2020-01-22
+MT358401,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29895,"USA: New Orleans, LA",Homo sapiens,oronasopharynx,2020-04-06
+MT358402,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29896,"USA: New Orleans, LA",Homo sapiens,oronasopharynx,2020-04-06
+MT358637,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29903,India: Rajkot,Homo sapiens,,2020-04-05
+MT358644,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29842,USA: WA,Homo sapiens,,2020-04-01
+MT358645,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29831,USA: WA,Homo sapiens,,2020-03-31
+MT358646,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29862,USA: WA,Homo sapiens,,2020-03-31
+MT358647,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29872,USA: WA,Homo sapiens,,2020-03-31
+MT358648,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29831,USA: WA,Homo sapiens,,2020-03-31
+MT358649,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29902,USA: WA,Homo sapiens,,2020-03-31
+MT358650,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29829,USA: WA,Homo sapiens,,2020-03-31
+MT358651,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29841,USA: CT,Homo sapiens,,2020-03-30
+MT358652,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29828,USA: ID,Homo sapiens,,2020-03-30
+MT358653,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29847,USA: CT,Homo sapiens,,2020-03-31
+MT358654,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29868,USA: CT,Homo sapiens,,2020-03-31
+MT358655,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29852,USA: ID,Homo sapiens,,2020-03-30
+MT358656,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29853,USA: WA,Homo sapiens,,2020-03-31
+MT358657,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29872,USA: WA,Homo sapiens,,2020-03-31
+MT358658,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29853,USA: WA,Homo sapiens,,2020-03-31
+MT358659,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29854,USA: WA,Homo sapiens,,2020-03-31
+MT358660,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29838,USA: WA,Homo sapiens,,2020-03-31
+MT358661,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29873,USA: OR,Homo sapiens,,2020-03-31
+MT358662,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29862,USA: WA,Homo sapiens,,2020-03-31
+MT358663,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29829,USA: WA,Homo sapiens,,2020-03-31
+MT358664,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29821,USA: WA,Homo sapiens,,2020-03-31
+MT358665,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29835,USA: WA,Homo sapiens,,2020-03-31
+MT358666,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29833,USA: WA,Homo sapiens,,2020-03-31
+MT358667,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29872,USA: WA,Homo sapiens,,2020-03-30
+MT358668,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29865,USA: WA,Homo sapiens,,2020-03-31
+MT358669,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29864,USA: WA,Homo sapiens,,2020-03-29
+MT358670,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29866,USA: WA,Homo sapiens,,2020-03-31
+MT358671,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29864,USA: WA,Homo sapiens,,2020-03-30
+MT358672,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29832,USA: WA,Homo sapiens,,2020-03-30
+MT358673,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29872,USA: CT,Homo sapiens,,2020-03-30
+MT358674,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29813,USA: WA,Homo sapiens,,2020-03-26
+MT358675,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29897,USA: WA,Homo sapiens,,2020-03-26
+MT358676,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29813,USA: WA,Homo sapiens,,2020-03-26
+MT358677,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29831,USA: WA,Homo sapiens,,2020-03-26
+MT358678,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29832,USA: WA,Homo sapiens,,2020-03-27
+MT358679,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29832,USA: WA,Homo sapiens,,2020-03-26
+MT358680,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29815,USA: WA,Homo sapiens,,2020-03-26
+MT358681,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29831,USA: WA,Homo sapiens,,2020-03-26
+MT358682,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29834,USA: WA,Homo sapiens,,2020-03-26
+MT358683,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29832,USA: WA,Homo sapiens,,2020-03-25
+MT358684,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29875,USA: WA,Homo sapiens,,2020-03-25
+MT358685,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29871,USA: WA,Homo sapiens,,2020-03-26
+MT358686,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29808,USA: WA,Homo sapiens,,2020-03-26
+MT358687,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29866,USA: WA,Homo sapiens,,2020-03-26
+MT358688,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29851,USA: WA,Homo sapiens,,2020-03-26
+MT358689,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29833,USA: WA,Homo sapiens,,2020-03-26
+MT358690,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29862,USA: WA,Homo sapiens,,2020-03-26
+MT358691,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29835,USA: WA,Homo sapiens,,2020-03-27
+MT358692,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29832,USA: WA,Homo sapiens,,2020-03-25
+MT358693,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29873,USA: CT,Homo sapiens,,2020-03-25
+MT358694,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29883,USA: WA,Homo sapiens,,2020-03-26
+MT358695,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29892,USA: WA,Homo sapiens,,2020-03-26
+MT358696,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29866,USA: WA,Homo sapiens,,2020-03-26
+MT358697,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29813,USA: WA,Homo sapiens,,2020-03-26
+MT358698,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29860,USA: WA,Homo sapiens,,2020-03-25
+MT358699,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29833,USA: WA,Homo sapiens,,2020-03-26
+MT358700,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29851,USA: WA,Homo sapiens,,2020-03-26
+MT358701,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29842,USA: WA,Homo sapiens,,2020-03-25
+MT358702,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29889,USA: WA,Homo sapiens,,2020-03-27
+MT358703,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29855,USA: ID,Homo sapiens,,2020-03-25
+MT358704,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29901,USA: ID,Homo sapiens,,2020-03-29
+MT358705,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29910,USA: ID,Homo sapiens,,2020-03-29
+MT358706,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29873,USA: WA,Homo sapiens,,2020-03-31
+MT358707,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29813,USA: WA,Homo sapiens,,2020-03-31
+MT358708,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29720,USA: WA,Homo sapiens,,2020-03-27
+MT358709,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29834,USA: ID,Homo sapiens,,2020-03-26
+MT358710,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29869,USA: WA,Homo sapiens,,2020-03-27
+MT358711,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29844,USA: WA,Homo sapiens,,2020-03-27
+MT358712,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29833,USA: WA,Homo sapiens,,2020-03-27
+MT358713,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29835,USA: WA,Homo sapiens,,2020-03-27
+MT358714,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29826,USA: WA,Homo sapiens,,2020-03-27
+MT358715,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29901,USA: WA,Homo sapiens,,2020-03-27
+MT358716,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29920,USA: WA,Homo sapiens,,2020-03-27
+MT358717,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29847,USA: WA,Homo sapiens,,2020-03-27
+MT358718,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29903,USA: WA,Homo sapiens,,2020-03-27
+MT358719,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29863,USA: WA,Homo sapiens,,2020-03-27
+MT358720,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29776,USA: WA,Homo sapiens,,2020-03-27
+MT358721,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29891,USA: WA,Homo sapiens,,2020-03-27
+MT358722,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29902,USA: WA,Homo sapiens,,2020-03-27
+MT358723,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29867,USA: WA,Homo sapiens,,2020-03-27
+MT358724,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29833,USA: WA,Homo sapiens,,2020-03-27
+MT358725,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29826,USA: WA,Homo sapiens,,2020-03-27
+MT358726,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29859,USA: WA,Homo sapiens,,2020-03-27
+MT358727,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29651,USA: WA,Homo sapiens,,2020-03-30
+MT358728,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29835,USA: WA,Homo sapiens,,2020-03-31
+MT358729,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29823,USA: WA,Homo sapiens,,2020-03-31
+MT358730,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29868,USA: WA,Homo sapiens,,2020-03-29
+MT358731,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29815,USA: WA,Homo sapiens,,2020-03-29
+MT358732,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29828,USA: WA,Homo sapiens,,2020-03-29
+MT358733,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29848,USA: WA,Homo sapiens,,2020-03-29
+MT358734,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29919,USA: WA,Homo sapiens,,2020-03-29
+MT358735,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29872,USA: WA,Homo sapiens,,2020-03-28
+MT358736,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29901,USA: WA,Homo sapiens,,2020-03-29
+MT358737,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29842,USA: WA,Homo sapiens,,2020-03-28
+MT358738,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29853,USA: WA,Homo sapiens,,2020-03-28
+MT358739,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29872,USA: WA,Homo sapiens,,2020-03-29
+MT358740,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29895,USA: WA,Homo sapiens,,2020-03-28
+MT358741,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29875,USA: WA,Homo sapiens,,2020-03-29
+MT358742,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29888,USA: WA,Homo sapiens,,2020-03-29
+MT358743,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29877,USA: WA,Homo sapiens,,2020-04-01
+MT358744,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29897,USA: WA,Homo sapiens,,2020-04-01
+MT358745,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29838,USA: ID,Homo sapiens,,2020-03-29
+MT358746,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29838,USA: WA,Homo sapiens,,2020-03-31
+MT358747,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29871,USA: WA,Homo sapiens,,2020-03-31
+MT358748,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29878,USA: WA,Homo sapiens,,2020-03-31
+MT359231,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,3822,Serbia,Homo sapiens,,2020-04
+MT359865,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29890,Spain,Homo sapiens,oronasopharynx,2020-03-15
+MT359866,2020-04-20T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29893,Spain,Homo sapiens,oronasopharynx,2020-03-15
 MT350234,2020-04-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,1047,China: Nanchang,Homo sapiens,,2020-01
 MT350236,2020-04-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29865,USA: VA,Homo sapiens,,2020-03
 MT350237,2020-04-17T00:00:00Z,Severe acute respiratory syndrome-related coronavirus,29866,USA: VA,Homo sapiens,,2020-03
