@@ -4,6 +4,7 @@ The main objective of this project is to classify the different nucleotide genom
 **Data Source:** https://www.ncbi.nlm.nih.gov/labs/virus/vssi
 
 **sequences.fasta** and **sequences.csv** contain data collected from the above link (updated as of 12 pm 23/4/2020).
+
 **final.csv** contains combined data from the above files.
 
 Use *pip install -r requirements.txt* inside the virtual env to download the necessary packages.
