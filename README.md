@@ -10,4 +10,5 @@ Use *pip install -r requirements.txt* inside the virtual env to download the nec
 
 ### File Descriptions:
 **create_dataset.ipynb:** Combines data from sequences.fasta and sequences.csv to generate the dataset in final.csv.
+
 **encoder.ipynb:** Encodes neucleotide sequences following ordinal encoding scheme (Paper:https://www.biorxiv.org/content/10.1101/186965v2.full.pdf) 
